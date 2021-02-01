@@ -17,16 +17,22 @@
 + Componentes VUE
 + API for client list
 --------------------
-# Command for execute project
+# Command to install dependencies
 ==========
 --------------------
 ```
 $ composer install
 ```
 --------------------
-# Custom command for execute migrations, seeders
+# Custom command for execute migrations and city seeder
 ==========
 --------------------
 ```
 $ php artisan populate:db
+```
+# Custom command for execute local project
+==========
+--------------------
+```
+$ php artisan serve
 ```
