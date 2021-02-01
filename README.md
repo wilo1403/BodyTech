@@ -3,31 +3,21 @@
 --------------------
 + Backend: Laravel 7
 + Base de datos: MySql
-+ Frontend: HTML, Css, Javascript y libreria Bootstrap
++ Frontend: HTML, Css, Javascript, libreria Bootstrap y VUE JS
 
 --------------------
 
 # Laravel components used
 ==========
 --------------------
-+ Auth Laravel
 + CRUD for each entity
 + Migrations
 + Seeders
-+ Factories
-+ Sending email 
-+ Queue
-+ Observer
-+ Pagination
 + Template .BLADE
++ Componentes VUE
++ API for client list
 --------------------
-# Admin User
-==========
---------------------
-+ User: admin@admin.com
-+ Pass: 12345678
---------------------
-# Custom command for execute migrations, seeders and factories
+# Custom command for execute migrations, seeders
 ==========
 --------------------
 ```
