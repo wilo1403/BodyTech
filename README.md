@@ -23,10 +23,6 @@
 ```
 $ composer install
 ```
-
-```
-$ npm install
-```
 --------------------
 # Custom command for execute migrations, seeders
 ==========
